@@ -151,5 +151,5 @@ Enterprise application automating complex business processes for ABB, with inter
 
 ---
 
-<p align="center"><i>Building from heart <a href="https://github.com/VaishnaviThapekar">Vaishnavi Thapekar</a></i></p>
+<p align="center"><i>Building with 🧠 <a href="https://github.com/VaishnaviThapekar">Vaishnavi Thapekar</a></i></p>
 
